@@ -9,7 +9,10 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
+                    <VBox>
                         <Text text="First Deploy"/>
+                        <Text text="Second Deploy"/>
+                    </VBox>
                     </content>
 				</Page>
 			</pages>
