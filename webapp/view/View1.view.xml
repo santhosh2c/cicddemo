@@ -12,6 +12,7 @@
                     <VBox>
                         <Text text="First Deploy"/>
                         <Text text="Second Deploy"/>
+                        <Text text="Third Deploy"/>
                     </VBox>
                     </content>
 				</Page>
